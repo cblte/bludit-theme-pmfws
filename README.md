@@ -2,7 +2,7 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/cblte/pmfws.svg)](https://github.com/cblte/cb-mastodon-link)
 [![Bludit Version](https://img.shields.io/badge/bludit-version%203.x-blue.svg)](https://bludit.com)
 [![paypalme](https://img.shields.io/badge/paypal.me-donate-blue.svg?logo=paypal)](https://paypal.me/cblte)
-[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/cblte)
+
 
 # PMFWS
 
