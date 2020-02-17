@@ -9,6 +9,9 @@
 This is a theme made for the [bludit] cms system by [Diego Najar][bludit]
 
 This theme is a simple theme without much styling. Just use, what the browser offers to you.
+
+A DEMO can been seen here: https://blthemes.zn80.net/pmfws/
+
 Inspired by the
 - [motherfuckingwebsite][w1]
 - [bettermotherfuckingwebsite][w2]
